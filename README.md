@@ -1,0 +1,1 @@
+# Code Docs RAG (GitHub → Chroma → Streamlit)\n\nRun `streamlit run app.py` after installing requirements.
